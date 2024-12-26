@@ -1,13 +1,21 @@
-This is an AirCanvas i.e., you can use your finger movements to draw things virtually.
-On showing the following numbers, you can change colours of the ink.
-  One - 
-  Two - 
-  Three - 
+# AirCanvas  
 
+AirCanvas is a virtual drawing application where you can use finger movements to draw in the air. The app allows dynamic color changes for the ink based on specific gestures.
 
+---
 
-How to run the code
-      1. Clone the repo
-      2. Load the model into the notebook
-      3. Run the notebook cell by cell
+## Features  
+- **Virtual Drawing:** Use your finger movements to draw virtually.  
+- **Dynamic Color Change:** Show specific numbers to change ink color:  
+  - **One:** Blue  
+  - **Two:** Green  
+  - **Three:** Red  
 
+---
+
+## How to Run  
+
+1. **Clone the Repository**  
+   ```bash  
+   git clone <repository-url>  
+   cd AirCanvas  
